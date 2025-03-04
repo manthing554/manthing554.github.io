@@ -1,10 +1,10 @@
 <!DOCTYPE html>
   <html lang=en>
         <head>
-           <title>Welcome to Silly News Guys!!!</title>
+           <title>Silly News Guys</title>
         </head>
       <body>
-
-         
+           <h1>Welcome to Silly News Guys!!!</h1>
+               <h2></h2>         
       </body>
      </html>
