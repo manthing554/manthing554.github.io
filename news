@@ -1,7 +1,7 @@
 <!DOCTYPE html>
   <html lang=en>
         <head>
-           <title><a href="hub.html" target="_self">Silly News Guys</a></title>
+           <title><a href="hub" target="_self">Silly News Guys</a></title>
         </head>
       <body>
 
@@ -19,6 +19,7 @@
             <p>back in 2014, five crazy children <strong>destroyed</strong> all of the animatronics and equipment making it close. but now
                 you can enjoy some <cite>FizzyFaz</cite> and pizza at Freddy's. <q>We can't beleave that kids almost ended our establishment!</q> says 
                 <cite>Fazbear Entertainment</cite>.</p>
+          <a ></a>
 
       </body>
      </html>
