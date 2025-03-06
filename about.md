@@ -1,7 +1,7 @@
 <!DOCTYPE html>
   <html lang=en>
         <head>
-           <title><a href="hub" target="_self">Silly News Guys</a></title>
+           <a href="hub" target="_self">Silly News Guys</a>
         </head>
       <body>
            
