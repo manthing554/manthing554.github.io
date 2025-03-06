@@ -1,14 +1,14 @@
 <!DOCTYPE html>
   <html lang=en>
         <head>
-           <title><a href="hub" target="_self">Silly News Guys</a></title>
+           <a href="hub" target="_self">Silly News Guys</a>
         </head>
       <body>
            
-             <h1>Welcome to Silly News Guys!!!</h1>
+  <h1>Welcome to Silly News Guys!!!</h1>
              <h1><a href="news" target="_self">this weeks news!!!</a></h1>
                <hr/>
               <h3><a href="about" target="_self">about us!!!</a></h3>
 
-      </body>
+    
   </html>
