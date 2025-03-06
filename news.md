@@ -1,11 +1,11 @@
 <!DOCTYPE html>
   <html lang=en>
         <head>
-           <title><a href="hub" target="_self">Silly News Guys</a></title>
+           <a href="hub" target="_self">Silly News Guys</a>
         </head>
       <body>
 
-        <h1>News!!!</h1>
+ <h1>News!!!</h1>
          <h2>Man Makes Cool Thing!!!</h2>
              <p>A inventer named <cite>dr. Gloop Bloop</cite> makes a revolutionary technology: <b>Goop.</b> the Gooy. Orbital. Obeying. Partner. or
                 Goop is a blob that floats to you and waits for a command. It works by heating/cooling the air inside of it to control it's
@@ -29,5 +29,5 @@
             <p>a news site named <cite>APnews</cite> does silly news too called <b>oddities</b>, go check it out!</p>
           <a href="https://apnews.com/oddities" target="_blank">AP's silly news!!!</a>
 
-      </body>
-     </html>
+    
+ </html>
