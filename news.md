@@ -1,7 +1,7 @@
 <!DOCTYPE html>
   <html lang=en>
         <head>
-           <a href="hub" target="_self">Silly News Guys</a>
+           <a href="hub.md" target="_self">Silly News Guys</a>
         </head>
       <body>
 
@@ -29,5 +29,5 @@
             <p>a news site named <cite>APnews</cite> does silly news too called <b>oddities</b>, go check it out!</p>
           <a href="https://apnews.com/oddities" target="_blank">AP's silly news!!!</a>
 
-    
+  </body>
  </html>
