@@ -27,7 +27,7 @@
                 <hr/>
          <h2>more silly news!!!</h2>
             <p>a news site named <cite>APnews</cite> does silly news too called <b>oddities</b>, go check it out!</p>
-          <a href="https://apnews.com/oddities" target="_blank">AP's silly news!!!</a>
+          <a href="https://apnews.com/oddities" target="blank">AP's silly news!!!</a>
 
   </body>
  </html>
