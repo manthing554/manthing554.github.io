@@ -1,7 +1,7 @@
 <!DOCTYPE html>
   <html lang=en>
         <head>
-           <a href="hub" target="_self">Silly News Guys</a>
+           <a href="hub.md" target="_self">Silly News Guys</a>
         </head>
       <body>
            
@@ -12,6 +12,6 @@
                     this site is proven to cure depresstion <b>(don't fact check that)</b> and inprove morale.
                  </p>
                   <hr/>
-                  <h3> <a href="news" target="_self">this weeks news!!!</a> </h3>
-     
+                  <h3> <a href="news.md" target="_self">this weeks news!!!</a> </h3>
+    </body>
  </html>
