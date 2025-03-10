@@ -1,7 +1,7 @@
 <!DOCTYPE html>
   <html lang=en>
         <head>
-           <a href="https://manthing554.github.io/sillynews/hub.md" target="_self">Silly News Guys</a>
+           <a href="https://manthing554.github.io/hub.md" target="_self">Silly News Guys</a>
         </head>
       <body>
 
@@ -21,7 +21,7 @@
                 <cite>Fazbear Entertainment</cite>.
             </p>
                 <hr/>
-          <a href="https://manthing554.github.io/sillynews/Online-News-Article-Assignment_news.md at main· manthing554_Online-News-Article-Assignment.pdf" target="_blank">
+          <a href="https://manthing554.github.io/Online-News-Article-Assignment_news.md at main· manthing554_Online-News-Article-Assignment.pdf" target="_blank">
              download PDF!!!
           </a>
                 <hr/>
