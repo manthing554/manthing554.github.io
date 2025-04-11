@@ -1,0 +1,31 @@
+<style>
+body {
+  background-color:#1fc410;
+}
+h2, p {
+  font-family:Haettenschweiler, fantasy;
+  color:#0713ba;
+}
+.samp_link:link {
+    color:#0713ba;
+  }
+  .samp_link:visited {
+    color:#12bdc9;
+  }
+  .samp_link:hover {
+    color:#c96b12;
+  }
+  .samp_link:active {
+    color:#f08826;
+    font-weight: bold;
+  }
+  .new::after {
+    content:"new!";
+    margin-left:10px;
+    padding:3px;
+    background-color:#fa7b05;
+    color:red;
+    font-size:12px;
+    font-weight: bold;
+  }
+<style>
