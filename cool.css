@@ -1,20 +1,20 @@
-body {
-  background-color:#1fc410;
-}
-h, p, footer, caption, th, td,{
-  font-family:Haettenschweiler, fantasy;
-  color:#0713ba;
-}
-.samp_link:link {
+  body {
+    background-color:#1fc410;
+  }
+  h1, h2, h3, h4, h5, h6, h7, h8, p, footer, caption, th, td,{
+    font-family:Haettenschweiler, fantasy;
     color:#0713ba;
   }
-  .samp_link:visited {
+  a:link {
+    color:#0713ba;
+  }
+  a:visited {
     color:#12bdc9;
   }
-  .samp_link:hover {
+  a:hover {
     color:#c96b12;
   }
-  .samp_link:active {
+  a:active {
     color:#f08826;
     font-weight: bold;
   }
@@ -28,5 +28,5 @@ h, p, footer, caption, th, td,{
     font-weight: bold;
   }
   hr {
-    color:#0713ba;
+    border-color:#0713ba;
   }
