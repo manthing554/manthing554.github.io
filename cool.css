@@ -1,7 +1,35 @@
   body {
     background-color:#1fc410;
   }
-  h1, h2, h3, p, footer, caption, th, td,{
+  h1 {
+    font-family:Haettenschweiler, fantasy;
+    color:#0713ba;
+  }
+  h2 {
+    font-family:Haettenschweiler, fantasy;
+    color:#0713ba;
+  }
+  h3 {
+    font-family:Haettenschweiler, fantasy;
+    color:#0713ba;
+  }
+  p {
+    font-family:Haettenschweiler, fantasy;
+    color:#0713ba;
+  }
+  footer {
+    font-family:Haettenschweiler, fantasy;
+    color:#0713ba;
+  }
+  caption {
+    font-family:Haettenschweiler, fantasy;
+    color:#0713ba;
+  }
+  th {
+    font-family:Haettenschweiler, fantasy;
+    color:#0713ba;
+  }
+  td {
     font-family:Haettenschweiler, fantasy;
     color:#0713ba;
   }
