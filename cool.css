@@ -27,3 +27,6 @@ h, p, footer, caption, th, td,{
     font-size:12px;
     font-weight: bold;
   }
+  hr {
+    color:#0713ba;
+  }
