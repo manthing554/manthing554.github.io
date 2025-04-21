@@ -33,6 +33,9 @@
     font-family:Haettenschweiler, fantasy;
     color:#0713ba;
   }
+  tr {
+    border-color:#0713ba;
+  }
   li {
     font-family:Haettenschweiler, fantasy;
     color:#0713ba;
