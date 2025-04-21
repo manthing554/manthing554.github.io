@@ -44,7 +44,11 @@
     font-family:Haettenschweiler, fantasy;
     color:#0713ba;
   }
-  a:link {
+  form {
+    font-family:Haettenschweiler, fantasy;
+    color:#0713ba;
+  }  
+a:link {
     color:#0713ba;
   }
   a:visited {
