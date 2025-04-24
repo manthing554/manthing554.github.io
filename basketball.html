@@ -18,8 +18,7 @@
             font-size:40px;
             color:#ffffff;
             display: grid;
-            grid-template-columns: 1fr 2fr 1fr;
-            grid-template-rows: 1fr 1fr 1fr;
+            grid-template-columns: repeat(3,60);
             padding:10px;
             text-align:middle;
           }
@@ -29,13 +28,10 @@
             font-size: 40px;
             text-align: center
           }
-          .border {
-            border: 5px solid #ffffff;
-          }
         </style>
         <section class="grid" style="width:75%; height:50%;">
           <div class="grid-item">HOME</div>
-          <div class="grid-item">00:00</div>
+          <div class="grid-item" style="border: 5px solid #ffffff;">00:00</div>
           <div class="grid-item">GUEST</div>
           <div class="grid-item"><span style="text-decoration:overline; text-decoration:underline;">|129|</span></div>
           <div class="grid-item">PERIOD</div>
