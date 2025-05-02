@@ -79,7 +79,7 @@ a:link {
     background-color:#fa7b05;
     color:red;
     animation-name: myAnimation;
-    animation-duration: 3s;
+    animation-duration: 4s;
     animation-iteration-count: infinite;
     font-weight: bold;
   }
