@@ -56,12 +56,14 @@ a:link {
   }
   a:hover {
     color:#c96b12;
-    font-size:20px;
-    transition: all 1s;
   }
   a:active {
     color:#f08826;
     font-weight: bold;
+  }
+  @keyframes myAnimation {
+    from { font-size:12px; }
+    to { font-size:18px; }  
   }
   .new::after {
     content:"new!";
@@ -69,7 +71,9 @@ a:link {
     padding:3px;
     background-color:#fa7b05;
     color:red;
-    font-size:12px;
+    animation-name: myAnimation;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
     font-weight: bold;
   }
   hr {
