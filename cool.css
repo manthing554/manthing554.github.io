@@ -82,6 +82,7 @@ a:link {
     animation-duration: 4s;
     animation-iteration-count: infinite;
     font-weight: bold;
+    transition-timing-function:linear;
   }
   hr {
     border-color:#0713ba;
