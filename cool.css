@@ -62,8 +62,15 @@ a:link {
     font-weight: bold;
   }
   @keyframes myAnimation {
-    from { font-size:12px; }
-    to { font-size:18px; }  
+    0% {
+      font-size:12px;
+    }
+    50% {
+      font-size:18px;
+    }
+    100% {
+      font-size:12px;
+    } 
   }
   .new::after {
     content:"new!";
