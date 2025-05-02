@@ -56,6 +56,8 @@ a:link {
   }
   a:hover {
     color:#c96b12;
+    transform:scale(3)
+    transition: all 3s;
   }
   a:active {
     color:#f08826;
