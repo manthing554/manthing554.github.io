@@ -13,23 +13,19 @@
             0% {
               transform: rotate3d(0,1,0,0deg);
             }
-            25% {
-              transform: rotate3d(0,1,0,90deg);
-            }
             50% {
               transform: rotate3d(0,1,0,200deg);
-            }
-            75% {
-              transform: rotate3d(0,1,0,90deg);
+              transform: translateX(-100%);
             }
             100% {
               transform: rotate3d(0,1,0,0deg);
+              transform: translateX(100%);
             }
           }
           h1.anim1 {
             transition-timing-function:linear;
             animation-name: anim1;
-            animation-duration: 5s;
+            animation-duration: 4s;
             animation-iteration-count: infinite;
           }
         </style>
