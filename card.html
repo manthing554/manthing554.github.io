@@ -27,10 +27,23 @@
             animation-iteration-count: infinite;
             text-align: center;
           }
-          div:hover {
+          div:hover::after {
             content:"hi";
+            background-color:#ffffff;
+            -webkit-filter: drop-shadow(5px 5px 5px #000000);
+            filter: drop-shadow(5px 5px 5px #000000);
+            border-radius:10px 10px 10px 10px / 10px 10px 10px 10px;
+            color: black;
+            width: 300px;
+            height: 400px;
+            position:absolute;
+            bottom:5%;
+            left:40%;
           }
-          div {
+          div.card:hover {
+            visibility:hidden;
+          }
+          div.card {
             background-color:#ffffff;
             -webkit-filter: drop-shadow(5px 5px 5px #000000);
             filter: drop-shadow(5px 5px 5px #000000);
@@ -48,6 +61,6 @@
 
         <h1 class=anim1>Animation Review Cards!!!</h1>
         
-        <div></div>
+        <div class="card"></div>
   </body>
   </html>
