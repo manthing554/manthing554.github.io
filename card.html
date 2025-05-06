@@ -23,25 +23,21 @@
           h1.anim1 {
             transition-timing-function:linear;
             animation-name: anim1;
-            animation-duration: 6s;
+            animation-duration: 4s;
             animation-iteration-count: infinite;
             text-align: center;
           }
-          div:hover::after {
-            content:"hi";
-            background-color:#ffffff;
-            -webkit-filter: drop-shadow(5px 5px 5px #000000);
-            filter: drop-shadow(5px 5px 5px #000000);
-            border-radius:10px 10px 10px 10px / 10px 10px 10px 10px;
-            color: black;
-            width: 300px;
-            height: 400px;
-            position:absolute;
-            bottom:5%;
-            left:40%;
+          @keyframes anim2 {
+            0% {
+              transform: rotateY(200deg);
+            }
+            100% {
+              visibility:hidden;
+            }
           }
           div.card:hover {
-            visibility:hidden;
+            animation-name: anim2;
+            animation-duration: 4s;
           }
           div.card {
             background-color:#ffffff;
