@@ -24,12 +24,10 @@
           h1.anim1 {
             transition-timing-function:linear;
             animation-name: anim1;
-            animation-duration: 4s;
+            animation-duration: 3s;
             animation-iteration-count: infinite;
             text-align: center;
             color: red;
-            background-color: black;
-            border: 3px solid black;
           }
           @keyframes anim2 {
             0% {
@@ -70,18 +68,16 @@
           h2.anim3 {
             transition-timing-function:linear;
             animation-name: anim3;
-            animation-duration: 4s;
+            animation-duration: 3s;
             animation-iteration-count: infinite;
             text-align: center;
             color: black;
-            background-color: red;
-            border: 3px solid red;
           }
         </style>
 
-        <h1 class="anim1">Animation Review Cards!!!</h1>
+        <h1 class="anim1"><span style="background-color: black;">Animation Review Cards!!!</span></h1>
         <br/>
-        <h2 class="anim3">hover over a card to reveal the answer</h2>
+        <h2 class="anim3"><span style="background-color: red;">hover over a card to reveal the answer</span></h2>
         
         <div class="card" style="position:absolute; bottom:5%; left:5%;">the at-rule used to make animations.<br/><br/><span style="color: red;">@keyframes</span></div>
         <div class="card" style="position:absolute; bottom:5%; left:20%;">the tag that stops a animations at the end when done playing.<br/><br/><span style="color: red;">animation-fill-mode: forwards;</span></div>
